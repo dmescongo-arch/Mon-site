@@ -1,0 +1,162 @@
+HTTrack3.49-2 launched on Sat, 31 Oct 2020 17:39:11 at http://antoinesimen.centerblog.net/m/187-les-8-secrets-de-la-reussite +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -@i4 -O "/storage/emulated/0/HTTrack/Websites/8secrets de la réussite" -iC1A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 http://antoinesimen.centerblog.net/m/187-les-8-secrets-de-la-reussite +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:39:12	Warning: 	File not parsed, looks like binary: antoinesimen.centerblog.net/robots.txt
+17:39:13	Error: 	"Forbidden" (403) at link ww12.centerblog.net/logo-12222-1604106505.js (from antoinesimen.centerblog.net/187-les-8-secrets-de-la-reussite)
+17:39:13	Error: 	"Forbidden" (403) at link ww12.centerblog.net/cu.js (from antoinesimen.centerblog.net/187-les-8-secrets-de-la-reussite)
+17:39:13	Error: 	"Not Found" (404) at link antoinesimen.centerblog.net/choice/ (from antoinesimen.centerblog.net/187-les-8-secrets-de-la-reussite)
+17:39:13	Error: 	"Not Found" (404) at link antoinesimen.centerblog.net/centerblog.net/choice.js (from antoinesimen.centerblog.net/187-les-8-secrets-de-la-reussite)
+17:39:31	Warning: 	Retry after error 504 () at link antoinesimen.centerblog.net/111-quoi-que-vous-fassiez-faites-le-bien (from antoinesimen.centerblog.net/187-les-8-secrets-de-la-reussite)
+17:39:37	Warning: 	Unexpected socket error during pre-loop
+17:39:38	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: antoinesimen.centerblog.net/articles/les+secrets+de+la+r%c3%a9ussite+dans+la+vie
+17:39:38	Warning: 	HTML file (0 bytes) retransferred due to lack of cache: antoinesimen.centerblog.net/articles/les+secrets+de+la+r%c3%a9ussite
+17:39:38	Warning: 	Unexpected socket error during pre-loop
+17:39:38	Warning: 	Unexpected socket error during pre-loop
+17:39:38	Warning: 	Unexpected socket error during pre-loop
+17:39:39	Warning: 	Unexpected socket error during pre-loop
+17:39:47	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/articles/comment+être+professionnel.html.tmp already exists
+17:39:47	Error: 	"Forbidden" (403) at link ww12.centerblog.net/logo-12222-1604106527.js (from antoinesimen.centerblog.net/)
+17:39:48	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/articles/comment+etres+profetionnel.html.tmp already exists
+17:39:48	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106928.html.tmp already exists
+17:39:51	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106930.html.tmp already exists
+17:39:54	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106931.html.tmp already exists
+17:39:57	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106932.html.tmp already exists
+17:39:58	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106933.html.tmp already exists
+17:40:00	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106935.html.tmp already exists
+17:41:06	Warning: 	Unexpected socket error during pre-loop
+17:41:07	Warning: 	Unexpected socket error during pre-loop
+17:41:08	Warning: 	Unexpected socket error during pre-loop
+17:41:11	Warning: 	Unexpected socket error during pre-loop
+17:41:12	Warning: 	Unexpected socket error during pre-loop
+17:41:13	Warning: 	Unexpected socket error during pre-loop
+17:41:14	Warning: 	Unexpected socket error during pre-loop
+17:41:15	Warning: 	Unexpected socket error during pre-loop
+17:41:16	Warning: 	Unexpected socket error during pre-loop
+17:41:17	Warning: 	Unexpected socket error during pre-loop
+17:41:18	Warning: 	Unexpected socket error during pre-loop
+17:41:25	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106953.html.tmp already exists
+17:41:27	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106955.html.tmp already exists
+17:41:28	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106957.html.tmp already exists
+17:41:29	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/articles/les+exemple+entre+téléconseiller+et+client-2.html.tmp already exists
+17:41:30	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106958.html.tmp already exists
+17:41:32	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106959.html.tmp already exists
+17:41:35	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/38-le-marketing-c-est-le-produit.html.tmp already exists
+17:41:35	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106963.html.tmp already exists
+17:41:37	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106964.html.tmp already exists
+17:41:40	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106966.html.tmp already exists
+17:41:41	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106968.html.tmp already exists
+17:41:43	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106969.html.tmp already exists
+17:41:45	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106970.html.tmp already exists
+17:41:47	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106971.html.tmp already exists
+17:41:49	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106973.html.tmp already exists
+17:41:51	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106975.html.tmp already exists
+17:41:53	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106976.html.tmp already exists
+17:41:55	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106977.html.tmp already exists
+17:41:57	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106980.html.tmp already exists
+17:41:58	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106981.html.tmp already exists
+17:42:00	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106983.html.tmp already exists
+17:42:02	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106989.html.tmp already exists
+17:42:04	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106990.html.tmp already exists
+17:42:06	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106992.html.tmp already exists
+17:42:08	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106993.html.tmp already exists
+17:42:10	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106996.html.tmp already exists
+17:42:11	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604106997.html.tmp already exists
+17:42:13	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107006.html.tmp already exists
+17:42:14	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107011.html.tmp already exists
+17:42:16	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107012.html.tmp already exists
+17:42:18	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107019.html.tmp already exists
+17:42:20	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107024.html.tmp already exists
+17:42:21	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107031.html.tmp already exists
+17:42:22	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107032.html.tmp already exists
+17:42:25	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107038.html.tmp already exists
+17:42:25	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107046.html.tmp already exists
+17:42:28	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107052.html.tmp already exists
+17:42:28	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107054.html.tmp already exists
+17:42:34	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/articles/histoire+sur+la+force+de+l'équipe.html.tmp already exists
+17:42:38	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/articles/histoire+motivante+et+inspirante+réussite+en+équipe.html.tmp already exists
+17:42:39	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107056.html.tmp already exists
+17:42:39	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/articles/mon+histoire+la+reussite.html.tmp already exists
+17:42:41	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107058.html.tmp already exists
+17:42:43	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107064.html.tmp already exists
+17:42:44	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107068.html.tmp already exists
+17:42:51	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/articles/qualités+des+gens+extraordinaire.html.tmp already exists
+17:42:51	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107078.html.tmp already exists
+17:42:52	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107082.html.tmp already exists
+17:42:55	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107083.html.tmp already exists
+17:42:56	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/chien.html.tmp already exists
+17:42:57	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107084.html.tmp already exists
+17:42:59	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107087.html.tmp already exists
+17:43:01	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107094.html.tmp already exists
+17:43:02	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107096.html.tmp already exists
+17:43:06	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/237-LE-POT-DE-MAYONNAISE-ET-LE-CAFE-2.html.tmp already exists
+17:43:08	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/dieu.html.tmp already exists
+17:43:09	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/cadeau.html.tmp already exists
+17:43:10	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/cheval.html.tmp already exists
+17:43:12	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/chevaux.html.tmp already exists
+17:43:15	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/revenu.html.tmp already exists
+17:43:15	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/236-EN-PANNE-DE-CONFIANCE-QUE-FAIRE-2.html.tmp already exists
+17:43:16	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/235-LE-MALHEUR-DU-SINGE-OU-LES-LIMITES-DU-CONFORMISME-2.html.tmp already exists
+17:43:18	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/femme.html.tmp already exists
+17:43:20	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/dessin.html.tmp already exists
+17:43:20	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/234-L-HISTOIRE-DU-CÉLÈBRE-POUSSIN-NOIR.html.tmp already exists
+17:43:22	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/233-TRANSFORMEZ-VOTRE-VIE-GRACE-A-VOS-OBJECTIFS.html.tmp already exists
+17:43:23	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/232-TOUT-EST-POUR-LE-MIEUX-2.html.tmp already exists
+17:43:24	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/rock.html.tmp already exists
+17:43:26	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/actrice.html.tmp already exists
+17:43:28	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/231-PERDANT-OU-GAGNANT--QUEL-EST-VOTRE-COTE.html.tmp already exists
+17:43:29	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/230-PERDANT-OU-GAGNANT--QUEL-EST-VOTRE-COTE.html.tmp already exists
+17:43:31	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/fille.html.tmp already exists
+17:43:32	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/229-COMMENT-ROMPRE-AVEC-LA-TIMIDITE-2.html.tmp already exists
+17:43:33	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/228-COMMENT-ALLER-DE-L-AVANT-FAITES-UN-PAS-DE-PLUS-CHAQUE-JOUR.html.tmp already exists
+17:43:35	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107098.html.tmp already exists
+17:43:39	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/rose.html.tmp already exists
+17:43:41	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/fleur.html.tmp already exists
+17:43:47	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/227-QUE-FAITES-VOUS-APRES-UNE-MAUVAISE-SEPARATION-2.html.tmp already exists
+17:43:49	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/france.html.tmp already exists
+17:43:52	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/jeux.html.tmp already exists
+17:43:55	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/signature.html.tmp already exists
+17:43:55	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/226-LE-TEMPS-DE-L-INNOVATION.html.tmp already exists
+17:43:56	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/animation.html.tmp already exists
+17:43:58	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/225-LE-VÉRITABLE-RÔLE-DU-DIRECTEUR-MARKETING.html.tmp already exists
+17:43:58	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/224-L-ART-DE-SE-DISTINGUER-PAR-LA-PAROLE-LA-RHÉTORIQUE-.html.tmp already exists
+17:43:59	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/223-LIBRE-COMME-NELSON-MANDELA-2.html.tmp already exists
+17:44:01	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/222-LE-PETIT-GARÇON-ET-SA-GRAND-MERE.html.tmp already exists
+17:44:02	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/air.html.tmp already exists
+17:44:04	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/221-POSITIONNEZ-VOUS-ET-POSITIONNEZ-EFFICACEMENT-VOTRE-PRODUIT.html.tmp already exists
+17:44:05	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/fleurs.html.tmp already exists
+17:44:07	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/papillon.html.tmp already exists
+17:44:10	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/220-L-OURS-ET-LA-CHENILLE.html.tmp already exists
+17:44:11	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/219-LE-PAYSAN-ET-LE-GENTILHOMME-2.html.tmp already exists
+17:44:12	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/voyages.html.tmp already exists
+17:44:14	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/218-L-UNIVERS-EST-VOTRE-CHAUFFEUR-PERSONNEL.html.tmp already exists
+17:44:16	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107100.html.tmp already exists
+17:44:19	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/hiver.html.tmp already exists
+17:44:20	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/217-LECON-DE-GESTION-D-EMOTION.html.tmp already exists
+17:44:22	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/coeur.html.tmp already exists
+17:44:23	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/216-LA-METAPHORE-DU-GRAIN-DE-CAFE-2.html.tmp already exists
+17:44:24	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/215-LA-GESTION-DU-TEMPS-COMME-UNE-HISTOIRE-DE-CAILLOUX-2.html.tmp already exists
+17:44:26	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/lecture.html.tmp already exists
+17:44:39	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/209-LE-PETIT-GARCON-DANS-LA-VALEE-2.html.tmp already exists
+17:44:40	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/208-LE-VERITABLE-ROLE-DU-DIRECTEUR-COMMERCIAL-2.html.tmp already exists
+17:44:41	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107109.html.tmp already exists
+17:44:44	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/207-PETIT-A-PETIT-VERS-LES-PLUS-GRANDS-SUCCÈS.html.tmp already exists
+17:44:45	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/206-UNE-SIMPLE-QUESTION-D-ATTITUDE.html.tmp already exists
+17:44:46	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/poeme.html.tmp already exists
+17:44:48	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/205--INVISTUS-UN-FILM-A-VOIR-APRES-NELSON-MANDELA-2.html.tmp already exists
+17:44:51	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/oiseau.html.tmp already exists
+17:44:53	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/204-LA-HAINE-APPELLE-LA-HAINE--L-AMOUR--L-AMOUR.html.tmp already exists
+17:44:54	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/203-POUR-VOS-PRESENTATIONS-COMMERCIALES-IMITEZ-STEVE-JOBS.html.tmp already exists
+17:44:55	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/texte.html.tmp already exists
+17:44:57	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/202-COMMENT-RATER-A-COUP-SUR-SA-PRESENTATION-COMMERCIALE-2.html.tmp already exists
+17:44:58	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/mer.html.tmp already exists
+17:44:59	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/201-LE-POUVOIR-DU-CALME-ET-DE-LA-MAITRISE-DE-SOI-2.html.tmp already exists
+17:45:00	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/200-DEVENEZ-LEADER-2.html.tmp already exists
+17:45:31	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/antoinesimen.centerblog.net/horreur.html.tmp already exists
+17:51:33	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107110.html.tmp already exists
+18:27:36	Warning: 	engine: warning: temporary file /storage/emulated/0/HTTrack/Websites/8secrets de la réussite/ww12.centerblog.net/logo-12222-1604107112.html.tmp already exists
+18:44:38	Error: 	Exit requested by shell or user

@@ -1,0 +1,101 @@
+h1
+{
+	color: blue;
+}
+p
+{
+	font-weight: bold;
+}
+
+.introduction
+{
+	color: purple;
+}
+h1
+{
+	text-align: center;
+}
+p
+{
+	text-align: justify;
+}
+.signature
+{
+	text-align: right;
+}
+
+h2
+{
+	color: blue;
+}
+p
+{
+	font-weight: bold;
+}
+p
+{
+	font-family: Comic Sans MS , "Comic Sans MS ", sans-serif;
+}
+/* On travaille sur la balise body, donc sur TOUTE la page */
+body
+{
+background-color: grey; /* Le fond de la page sera noir */
+color: black; /* Le texte de la page sera blanc */
+}
+p
+{
+	font-size: 20px; /* Paragraphes de 20 pixels */
+}
+h1
+{
+font-size: 46px; /* Titres de 46 pixels */
+}
+h2
+{
+font-size: 26px; /* Titres de 26 pixels */
+}
+p
+{
+	text-decoration: blink;
+}
+.souligne
+{
+	text-decoration: underline;
+}
+.barre
+{
+	text-decoration: line-through;
+}
+.ligne_dessus
+{
+	text-decoration: overline;
+}
+
+
+
+.souligne
+{
+	text-decoration: underline;
+}
+}
+p
+{
+	font-weight: bold;
+
+}
+
+.introduction
+{
+	color: purple;
+}
+h1
+{
+	text-align: center;
+}
+p
+{
+	text-align: justify;
+}
+
+
+

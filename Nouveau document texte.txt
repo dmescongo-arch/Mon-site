@@ -1,0 +1,21 @@
+<div class="doc-menu-summary"><strong>Sommaire</strong><ol><li><a href="#stimuler-sa-memoire-par-le-jeu">
+Stimuler sa mémoire par le jeu</a></li><li><a href="#apprendre-des-choses-utiles-au-quotidien">
+Apprendre des choses utiles au quotidien</a></li><li><a href="#dormir-pour-stocker-les-souvenirs-de-la-journee">
+Dormir pour stocker les souvenirs de la journée</a></li><li><a href="#manger-des-aliments-riches-en-omega-3">
+Manger des aliments riches en oméga 3</a></li><li><a href="#ne-pas-abuser-de-l-alcool">
+Ne pas abuser de l'alcool</a></li><li><a href="#choisir-un-metier-qui-entretient-la-memoire">
+Choisir un métier qui entretient la mémoire</a></li><li><a href="#s-appuyer-sur-des-reperes-mnemotechniques">
+S'appuyer sur des repères mnémotechniques</a></li><li><a href="#lire-pour-faire-travailler-ses-neurones">
+Lire pour faire travailler ses neurones</a></li></ol></div><div id="300_atf" class="doc-bloc-ad">
+<script type="text/javascript"> if (window.afAdQueue && 'desktop' !== device && !trafficing_exclu_full) { afAdQu
+
+
+
+eue.push(function() { afAd.render('300_atf', { createParams: { container: document.getElementById('300_atf'), mode: 'inside' } }
+); }); } </script></div><p>La mémoire ne s'use que si l'on ne s'en sert pas !
+ Il est donc important de la faire travailler et de connaître ses ennemis.
+ Les conseils suivants peuvent vous aider à améliorer vos capacités à vous souvenir :
+</p><h2 id="stimuler-sa-memoire-par-le-jeu"><strong>Stimuler sa mémoire par le jeu</strong></h2><p>Jouez au scrabble, 
+à la belote, aux dames, aux échecs, au bridge ou à tout autre jeu de logique ou de stratégie. 
+Si vous ne trouvez pas de partenaire, rabattez-vous vers les magazines, et les mots croisés, tout aussi efficaces. 
+</p><h2 id="apprendre-des-choses-utiles-au-quotidien"><strong>Apprendre des choses utiles au quotidien</strong></h2>
